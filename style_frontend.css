@@ -1,0 +1,70 @@
+/* stylelint-disable declaration-block-no-redundant-longhand-properties */
+
+body {
+margin: 0;
+font-size: 18px;
+color:#333;
+font-family: snell roundhand;
+line-height: 1.5;
+background: #F5FFFA;
+}
+
+h1 {
+margin-top: 50px;
+margin-bottom: 10px;
+font-size: 60px;
+text-align: center;
+animation-duration: 3s;
+animation-name: slidein;
+font-style: oblique;
+color: #800000;
+}
+
+h2 {
+margin-top: 0;
+padding-bottom: 30px;
+font-size: 25px;
+text-align: center;
+font-style: italic;
+border-bottom: 2px solid #e3e3e3;
+color: #A52A2A;
+text-decoration: underline;
+}
+
+main {
+  width: 900px;
+  margin: auto;
+}
+
+section {
+  margin-top: 50px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+section h2 {
+  padding: 0;
+  text-align: left;
+  border: none;
+  font-style: italic;
+  color: #A52A2A;
+}
+li {
+  margin-bottom: 10px;
+}
+p {
+  text-align: justify;
+  margin-top: 30px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 10px;
+  padding-left: 30px;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
